@@ -61,7 +61,7 @@ const createPanel = (id, title, contentHTML) => `
 const getHomeView = () => {
     // Note: Since I cannot include a real image, I'll use a placeholder.
     // Replace 'path/to/your/photo.jpg' with a real image path.
-  const imagePlaceholder = 'https://github.com/dkyaladandi/MY-PORTFOLIO/blob/main/Dp.jpeg';
+  const imagePlaceholder = './Dp.jpeg';
 
 
     const content = `
@@ -206,6 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
     navigateTo(window.location.pathname);
 
 });
+
 
 
 
