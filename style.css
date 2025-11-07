@@ -250,18 +250,4 @@ footer {
 
 }
 
-.profile-pic {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin: 20px 0;
-    border: 3px solid #333;
-}
-.home-section {
-    text-align: center;
-    padding: 40px 20px;
-}
-.highlight {
-    color: #007bff;
-}
+
