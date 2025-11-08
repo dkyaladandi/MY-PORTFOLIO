@@ -2,7 +2,7 @@
 
 const resumeData = {
     name: "YALADANDI DILIP KUMAR",
-    objective: "Aspiring Web developer with solid understanding in web development and real-time applications. Developed and deployed multiple real-world projects, including chat apps, e-commerce pages, and games with proficiency in JAVA, HTML, CSS, JAVASCRIPT. Committed to producing maintainable and efficient code following industry best practices.",
+    objective: "Aspiring Web developer with solid understanding in web development and real-time applications. Developed and deployed multiple real-world projects, including chat apps, e-commerce pages, and games with proficiency in JAVA, HTML, CSS, JAVASCRIPT. Committed to producing maintainable and efficient code following industry best practices",
     contact: {
         phone: "9391756518",
         email: "dk6166460@gmail.com",
@@ -206,6 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
     navigateTo(window.location.pathname);
 
 });
+
 
 
 
